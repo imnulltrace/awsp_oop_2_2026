@@ -1,3 +1,5 @@
+# Aplikacja do zamawiania pizzy
+ 
 class Topping:
     def __init__(self, name, extra_cost):
         self.name = name

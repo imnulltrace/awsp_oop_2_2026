@@ -1,3 +1,5 @@
+// Aplikacja do zamawiania pizzy
+
 using System;
 using System.Collections.Generic;
 
